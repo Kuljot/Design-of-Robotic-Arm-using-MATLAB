@@ -1,5 +1,5 @@
 # Design-of-Robotic-Arm-using-MATLAB
-A robotic arm with RRRRPR configuration(6 degrees of freedom) .Denavit Hartenberg matrices are used for movement.Newton-Raphson method used for solving Inverse Kinematics.
+A robotic arm with RRRPRR configuration(6 degrees of freedom) .Denavit Hartenberg matrices are used for movement.Newton-Raphson method used for solving Inverse Kinematics.
 Run function robo.m
 Input is 4x4 Matrix
 [T(0,0,0) [x;y;z];0 0 0 1];
